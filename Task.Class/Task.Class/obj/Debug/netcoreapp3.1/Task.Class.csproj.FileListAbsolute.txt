@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\TaskInClass-16.03.2022\Task.Class\Task.Class\bin\Debug\netcoreapp3.1\Task.Class.exe
+C:\Users\HP\Desktop\Development\TaskInClass-16.03.2022\Task.Class\Task.Class\bin\Debug\netcoreapp3.1\Task.Class.deps.json
+C:\Users\HP\Desktop\Development\TaskInClass-16.03.2022\Task.Class\Task.Class\bin\Debug\netcoreapp3.1\Task.Class.runtimeconfig.json
+C:\Users\HP\Desktop\Development\TaskInClass-16.03.2022\Task.Class\Task.Class\bin\Debug\netcoreapp3.1\Task.Class.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\TaskInClass-16.03.2022\Task.Class\Task.Class\bin\Debug\netcoreapp3.1\Task.Class.dll
+C:\Users\HP\Desktop\Development\TaskInClass-16.03.2022\Task.Class\Task.Class\bin\Debug\netcoreapp3.1\Task.Class.pdb
+C:\Users\HP\Desktop\Development\TaskInClass-16.03.2022\Task.Class\Task.Class\obj\Debug\netcoreapp3.1\Task.Class.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\TaskInClass-16.03.2022\Task.Class\Task.Class\obj\Debug\netcoreapp3.1\Task.Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\TaskInClass-16.03.2022\Task.Class\Task.Class\obj\Debug\netcoreapp3.1\Task.Class.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\TaskInClass-16.03.2022\Task.Class\Task.Class\obj\Debug\netcoreapp3.1\Task.Class.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\TaskInClass-16.03.2022\Task.Class\Task.Class\obj\Debug\netcoreapp3.1\Task.Class.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\TaskInClass-16.03.2022\Task.Class\Task.Class\obj\Debug\netcoreapp3.1\Task.Class.dll
+C:\Users\HP\Desktop\Development\TaskInClass-16.03.2022\Task.Class\Task.Class\obj\Debug\netcoreapp3.1\Task.Class.pdb
+C:\Users\HP\Desktop\Development\TaskInClass-16.03.2022\Task.Class\Task.Class\obj\Debug\netcoreapp3.1\Task.Class.genruntimeconfig.cache
